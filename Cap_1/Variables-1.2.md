@@ -11,13 +11,13 @@ Las variable se pueden usar para diferentes propositos.
   este ysumarle 3 se obtiene el mismo resultado que si se eleva al
   cuadrado.?
   
-  = Hay un numero X con la propiedad de que 2x + 3 =  x^2
+    = Hay un numero X con la propiedad de que 2x + 3 =  x^2
   
   2 - No importa que numero elija, si este es mayor que 2
   entonces su cuadrado es mayor que 4
     
-  = No importa que numero N elija, si N es mayor que 2,
-  entonces N^2 es mayor que 4.
+    = No importa que numero N elija, si N es mayor que 2,
+    entonces N^2 es mayor que 4.
   
 ## Ejemplo 1.1.1
 
@@ -46,4 +46,3 @@ entre 6).
 Dada una propiedad que puede o no puede ser verdad, un enunciado `existencial`, dice
 que hay al menos una cosa para la cual la propiedad es verdadera. (Por ejemplo: Hay
 un número primo que es par).
-  
